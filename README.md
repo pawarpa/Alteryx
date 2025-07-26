@@ -1,1 +1,2 @@
-# Alteryx
+# Alteryx Certifications
+
